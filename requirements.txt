@@ -16,4 +16,4 @@ pyflakes
 pytest
 pytest-cov
 tomli
-pip install pydocstyle=3.0.0
+pip install pydocstyle==3.0.0
