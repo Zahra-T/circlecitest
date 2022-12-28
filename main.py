@@ -14,8 +14,6 @@ class ChildTest(Test):
         super().t1()
 
 
-def print_by(name):
-    print(f"By, {name}")
 
 
 def print_hi(name):
@@ -25,4 +23,4 @@ def print_hi(name):
 
 if __name__ == "__main__":
     print_hi("PyCharm")
-    print_by("PyCharm")
+
